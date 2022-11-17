@@ -4,15 +4,14 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+为本博客提供技术支持的平台：
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+* 博客生成平台：[Jekyll](https://jekyllrb.com/)
+* 博客主题：[Just the docs](https://just-the-docs.github.io/just-the-docs/)
+* 博客代码托管：[GitHub](https://github.com/)
+* 网站服务器供应商：[Cloudflare Pages](https://pages.cloudflare.com/)
+* 域名服务商：[Dynadot](https://www.dynadot.com/)
+* DNS服务商：[CloudFlare](https://www.cloudflare.com/dns/)
+* 域名证书：[CloudFlare](https://www.cloudflare.com/cdn/)
+* CDN网络加速：[CloudFlare](https://www.cloudflare.com/cdn/)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
